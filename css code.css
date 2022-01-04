@@ -6,6 +6,7 @@
 .bg2
 {
   background-color: #2E4053 ;
+  
     color: #ffffff;
 }
 
@@ -27,6 +28,10 @@ p{
 
 .container-fluid
 {
+ .bg1;
+  .bg2;
+  .bg-3;
+  .bg-4;
   padding-top: 65px;
   padding-bottom: 25px;
 }
